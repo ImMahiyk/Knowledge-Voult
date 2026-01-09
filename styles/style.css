@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+ul{
+    display: flex;
+    gap: 17px;
+    align-items: center;
+    list-style: none;
+    
+}
+.nav{
+    font-weight: 500;
+    font-size: 20px;
+}
+#GEA-btn{
+    background-color: #30B868;
+    padding: 1pc 30px;
+    border-radius: 10px;
+    border: none;
+    color: rgba(255, 255, 255, 1);;
+}
