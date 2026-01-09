@@ -151,3 +151,20 @@ button :hover{
 .arrow{
     margin-left: 10px;
 }
+#social-link{
+    color: #dfb9b9;
+}
+#footer{
+    background-color: #001931;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+}
+#copy-right-warnig{
+    background-color: #001931;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+}
