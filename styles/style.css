@@ -120,3 +120,18 @@ button :hover{
 .card-description{
     color: #050303;
 }
+#knowledge{
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+}
+#knowledge-title{
+    margin: 20px 0px;
+    font-size: 48px;
+}
+.check-icon{
+ 
+    color: #30B868;
+    padding: 5px 0px;
+}
